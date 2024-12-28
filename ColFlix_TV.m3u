@@ -95,7 +95,18 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caracol_Televisi%C3%B3n_logo_2023.png/285px-Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Noticias",CARACOL TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/368px-NTN24_logo.svg.png" group-title="Noticias",NTN24
+https://ythls.armelin.one/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
+#EXTINF:-1 group-title="Noticias",Canal Uno
+http://canaluno.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+#EXTINF:-1 group-title="Noticias",Señal Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
+#EXTINF:-1 group-title="Noticias",NTN24
+http://ntn24envivo.ntn24.com/ntn24.m3u8
+#EXTINF:-1 group-title="Noticias",El Tiempo TV
+http://video.eltiempo.com/live.m3u8
+#EXTINF:-1 group-title="Noticias",Cablenoticias
+http://streaming.cablenoticias.tv/live.m3u8
 
 
 # Deportes
