@@ -414,9 +414,9 @@ http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugrat
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2113
 #EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL FULL HD" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Mundo y Cultura",CUL | DISCOVERY CHANNEL FULL HD
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2114
-#EXTINF:-1 tvg-id="" tvg-name="DEPELICULA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/DePeliculaHD-1.png" group-title="C",DEPELICULA HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPELICULA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/DePeliculaHD-1.png" group-title="Cine",DEPELICULA HD
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1766
-#EXTINF:-1 tvg-id="" tvg-name="WINSPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/621px-Winsports.svg.png" group-title="DEPORTES ",WINSPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="WINSPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/621px-Winsports.svg.png" group-title="Deportes",WINSPORTS HD
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1767
 
 # Entretenimiento
@@ -462,41 +462,50 @@ http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugrat
 
 #Niños
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Infantil",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Animation",ANIMESTATION (Argentina) (720p)
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
-#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Infantil",EnerGeek (720p) [Not 24/7]
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
-#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",Fanpop TV
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Infantil",Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Infantil",Locomotion TV (480p) [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (720p)
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Infantil",MAX Anime (720p)
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids (486p)
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Infantil",Magic Kids (486p)
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://i.imgur.com/S31utcQ.png" group-title="Animation",Pluto TV Animé Acción (684p)
+#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://i.imgur.com/S31utcQ.png" group-title="Infantil",Pluto TV Animé Acción (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",Boing (432p)
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
-#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",Chinola TV (480p)
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Infantil",Chinola TV (480p)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE Internacional (1080p)
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Infantil",Clan TVE Internacional (1080p)
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Kids",Disney Channel (432p) [Geo-blocked]
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Infantil",Disney Channel (432p) [Geo-blocked]
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="Kids",Megavisión Canal 19 (720p)
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="Infantil",Megavisión Canal 19 (720p)
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Infantil",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="Kids",Pluto TV Bob Esponja ESP (720p)
+#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="Infantil",Pluto TV Bob Esponja ESP (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVRugratsCrecidos.us" tvg-logo="https://i.imgur.com/nvstEkP.png" group-title="Kids",Pluto TV Rugrats Crecidos (240p)
+#EXTINF:-1 tvg-id="PlutoTVRugratsCrecidos.us" tvg-logo="https://i.imgur.com/nvstEkP.png" group-title="Infantil",Pluto TV Rugrats Crecidos (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",Pluto TV Toons Clásico (720p)
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Infantil",Pluto TV Toons Clásico (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
+#EXTINF:-1 tvg-id="ToonCast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Logo_de_Tooncast.svg/300px-Logo_de_Tooncast.svg.png" group-title="Infantil",ToonCast
+http://170.82.37.21:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="StarzKidsFamily.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Starz_Kids_and_Family.svg/1200px-Starz_Kids_and_Family.svg.png" group-title="Infantil",Latino | Starz Kids & Family
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1047
+#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Cartoon_Network_logo.png" group-title="Infantil",23 - 290 Cartoon Network
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Discovery_Kids_logo.png" group-title="Infantil",25-292 Discovery Kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2023_logo.svg" group-title="Infantil",27-286 NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
 
 
 
