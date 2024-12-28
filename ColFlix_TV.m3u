@@ -461,23 +461,40 @@ http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugrat
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1915
 
 #Niños
+#EXTINF:-1 tvg-id="CartoonNetworkHD.lat" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="Infantil",Cartoon Network HD [1920x1080]
+http://190.61.43.117:45000/play/a01y
 
-#EXTINF:-1,282 DisneyJR
-http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Televisión",Discovery Kids HD[1920x1080]
-http://190.61.43.117:45000/play/a019
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/200px-2019_Disney_Channel_logo.svg.png" group-title="Televisión",Disney Channel[853x480]
-http://190.61.43.117:45000/play/a06b
-#EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babytvv.png/200px-Babytvv.png" group-title="Televisión",Baby TV[720x540]
-http://190.61.43.117:45000/play/a03r
-#EXTINF:-1 tvg-id="CNN Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="Televisión",CNN Espanol[720x540]
-http://190.61.43.117:45000/play/a044
-#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/225px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",23 - 290 Cartoon Network
+#EXTINF:-1 tvg-id="BabyTV.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Baby_TV_Logo.svg" group-title="Infantil",Baby TV Latinoamérica
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7478.ts
+
+#EXTINF:-1 tvg-id="Boomerang.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Boomerang_logo.png" group-title="Infantil",Boomerang Latinoamérica
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7481.ts
+
+#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="Infantil",Cartoon Network Latinoamérica
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7480.ts
+
+#EXTINF:-1 tvg-id="CBeebies.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/CBeebies.svg" group-title="Infantil",CBeebies Latinoamérica
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7477.ts
+
+#EXTINF:-1 tvg-id="NickJr.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nick_Jr._logo_2023.svg" group-title="Infantil",Nick Jr Latinoamérica
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7484.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2023_logo.svg" group-title="Infantil",Nickelodeon Latinoamérica
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7485.ts
+
+#EXTINF:-1 tvg-id="DisneyJunior.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Disney_Junior_logo_2019.svg" group-title="Infantil",Disney Junior Norte
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7486.ts
+
+#EXTINF:-1 tvg-id="DisneyXD.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Disney_XD_Logo_2015.svg" group-title="Infantil",Disney XD Norte
+http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7487.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/225px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/188px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",25-292 Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/188px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids
 http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/300px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",27-286 NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/300px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",NICKELODEON
 http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.br" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="Kids",Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Infantil",Anime Zone TV (480p)
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Infantil",ANIMESTATION (Argentina) (720p)
