@@ -461,27 +461,21 @@ http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugrat
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1915
 
 #Niños
+
 #EXTINF:-1 tvg-id="CartoonNetworkHD.lat" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="Infantil",Cartoon Network HD [1920x1080]
 http://190.61.43.117:45000/play/a01y
-
 #EXTINF:-1 tvg-id="BabyTV.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Baby_TV_Logo.svg" group-title="Infantil",Baby TV Latinoamérica
 http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7478.ts
-
 #EXTINF:-1 tvg-id="Boomerang.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Boomerang_logo.png" group-title="Infantil",Boomerang Latinoamérica
 http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7481.ts
-
 #EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png" group-title="Infantil",Cartoon Network Latinoamérica
 http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7480.ts
-
 #EXTINF:-1 tvg-id="CBeebies.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/CBeebies.svg" group-title="Infantil",CBeebies Latinoamérica
 http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7477.ts
-
 #EXTINF:-1 tvg-id="NickJr.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nick_Jr._logo_2023.svg" group-title="Infantil",Nick Jr Latinoamérica
 http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7484.ts
-
 #EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2023_logo.svg" group-title="Infantil",Nickelodeon Latinoamérica
 http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7485.ts
-
 #EXTINF:-1 tvg-id="DisneyJunior.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Disney_Junior_logo_2019.svg" group-title="Infantil",Disney Junior Norte
 http://iptvluxe.servebeer.com:25461/live/iptvprivado/listam3u/7486.ts
 
