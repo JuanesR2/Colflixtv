@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="[Rogers] AandE" tvg-logo="" group-title="CANADA",[Rogers] AandE
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1769
 #EXTINF:-1 tvg-id="" tvg-name="[Rogers] ABCSPARK" tvg-logo="" group-title="CANADA",[Rogers] ABCSPARK
@@ -922,7 +923,6 @@ https://movil.ejeserver.com/live/veotv.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Undefined",Zoom (1080p)
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="El Justiciero: CapÃ­tulo final (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg" group-title="PELICULAS",El Justiciero: CapÃ­tulo final (2023)
 http://restream.mrzutv.com:8080/movie/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Hasta la madre! del DÃ­a de los muertos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJKmexmCLwuxOxlAURSMnBVkfmY.jpg" group-title="PELICULAS",Hasta la madre! del DÃ­a de los muertos (2023)
