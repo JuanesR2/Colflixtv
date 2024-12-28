@@ -1,4 +1,6 @@
 #EXTM3U
+# Cine
+
 #EXTINF:-1 tvg-id="" tvg-name="HD | SONY" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="Cine",HD | SONY
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2080
 #EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="https://logo.iptveditor.com/discoverychanneld.png" group-title="Cine",CUL | DISCOVERY CHANNEL HD
@@ -74,6 +76,11 @@ http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugrat
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2118
 #EXTINF:-1 tvg-id="" tvg-name="CINE | HBO FAMILY HD" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="Cine",CINE | HBO FAMILY HD
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2119
+#EXTINF:-1 tvg-id="" tvg-name="Straz Encore Espanol" tvg-logo="" group-title="Cine",Straz Encore Espanol
+http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1903
+
+# Deportes
+
 #EXTINF:-1 tvg-id="" tvg-name="DEP FOX | FOX SPORTS CHILE" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="Deportes",DEP FOX | FOX SPORTS CHILE
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1917
 #EXTINF:-1 tvg-id="" tvg-name="DEP FOX | FOX SPORTS 3 (ARG)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="Deportes",DEP FOX | FOX SPORTS 3 (ARG)
@@ -407,10 +414,13 @@ http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugrat
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2113
 #EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL FULL HD" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Mundo y Cultura",CUL | DISCOVERY CHANNEL FULL HD
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2114
-#EXTINF:-1 tvg-id="" tvg-name="DEPELICULA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/DePeliculaHD-1.png" group-title="Cine",DEPELICULA HD
+#EXTINF:-1 tvg-id="" tvg-name="DEPELICULA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/DePeliculaHD-1.png" group-title="C",DEPELICULA HD
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1766
-#EXTINF:-1 tvg-id="" tvg-name="WINSPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/621px-Winsports.svg.png" group-title="Deportes",WINSPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="WINSPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/621px-Winsports.svg.png" group-title="DEPORTES ",WINSPORTS HD
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1767
+
+# Entretenimiento
+
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51 MIAMI" tvg-logo="" group-title="Entretenimiento",TELEMUNDO 51 MIAMI
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1880
 #EXTINF:-1 tvg-id="" tvg-name="TELEVISA NOVELAS" tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Entretenimiento",TELEVISA NOVELAS
@@ -435,88 +445,59 @@ http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugrat
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1898
 #EXTINF:-1 tvg-id="" tvg-name="WPIX CW" tvg-logo="" group-title="Entretenimiento",WPIX CW
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1901
-#EXTINF:-1 tvg-id="" tvg-name="Straz Encore Espanol" tvg-logo="" group-title="CINEMA",Straz Encore Espanol
-http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1903
 #EXTINF:-1 tvg-id="" tvg-name="Univision Telenovelas" tvg-logo="" group-title="Entretenimiento",Univision Telenovelas
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1904
 #EXTINF:-1 tvg-id="" tvg-name="Telexitos NY" tvg-logo="" group-title="Entretenimiento",Telexitos NY
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1906
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo NY" tvg-logo="" group-title="Entretenimiento",Telemundo NY
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1907
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="MUNDO Y CULTURA",Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Mundo y Cultura",Nat Geo Wild
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1909
 #EXTINF:-1 tvg-id="" tvg-name="CanalCocina" tvg-logo="" group-title="Entretenimiento",CanalCocina
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1911
-#EXTINF:-1 tvg-id="" tvg-name="H&H latam" tvg-logo="" group-title="MUNDO Y CULTURA",H&H latam
+#EXTINF:-1 tvg-id="" tvg-name="H&H latam" tvg-logo="" group-title="Mundo y Cultura",H&H latam
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1912
 #EXTINF:-1 tvg-id="" tvg-name="Galavision" tvg-logo="" group-title="Entretenimiento",Galavision
 http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1915
 
 #Niños
 
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crntnn.png?raw=true" group-title="Niños",Cartoon Network
-http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crntnn.png?raw=true" group-title="Niños",Cartoon Network - !3
-http://tv.teleclub.xyz/club/server_3/infantil/cartoonnetwork/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Niños",Cartoonito
-http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Niños",Discovery Kids
-http://tv.teleclub.xyz/club/server_2/infantil/discoverykids/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Niños",Discovery Kids - !3
-http://tv.teleclub.xyz/club/server_3/infantil/discoverykids/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Niños",Disney Channel
-http://tv.teleclub.xyz/club/server_2/infantil/disneychannel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Niños",Disney Channel - !3
-http://tv.teleclub.xyz/club/server_3/infantil/disneychannel/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Niños",Disney JR
-http://tv.teleclub.xyz/club/server_2/infantil/disneyjr/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/EnerGeek_Retro.png?raw=true" group-title="Niños",EnerGeek Retro !Ex
-http://tv.teleclub.xyz/club/server_url/infantil/energeekretro/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/FanpopTV.png?raw=true" group-title="Niños",Fanpop TV !Ex
-http://tv.teleclub.xyz/club/server_url/infantil/fanpoptv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nckn.png?raw=true" group-title="Niños",Nick
-http://tv.teleclub.xyz/club/server_2/infantil/nick/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Niños",Tooncast
-http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
-
-#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Niños",Boomerang Latinoamérica [Geo-blocked]
-http://45.5.8.78:8000/play/a00i
-#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Niños",LatinoKids (360p) [Not 24/7]
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Animation",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Animation",ANIMESTATION (Argentina) (720p)
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",Fanpop TV
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime (720p)
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://i.imgur.com/S31utcQ.png" group-title="Animation",Pluto TV Animé Acción (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",Boing (432p)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",Chinola TV (480p)
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE Internacional (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://i.imgur.com/CFS67yj.png" group-title="Kids",Disney Channel (432p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="Kids",Megavisión Canal 19 (720p)
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="https://i.imgur.com/npxaOtl.png" group-title="Kids",Pluto TV Bob Esponja ESP (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVRugratsCrecidos.us" tvg-logo="https://i.imgur.com/nvstEkP.png" group-title="Kids",Pluto TV Rugrats Crecidos (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",Pluto TV Toons Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-# MUSICA
 
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/EnerGeekRadio.png?raw=true" group-title="Musica",EnerGeek Radio !Ex
-http://tv.teleclub.xyz/club/server_url/musica/energeekradio/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/htv.png?raw=true" group-title="Musica",HTV
-http://tv.teleclub.xyz/club/server_2/musica/htv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV
-http://tv.teleclub.xyz/club/server_2/musica/mtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV Hits
-http://tv.teleclub.xyz/club/server_2/musica/mtvhits/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/music%20top.png?raw=true" group-title="Musica",Music Top
-http://tv.teleclub.xyz/club/server_2/musica/musictop/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="Musica",Telehit
-http://tv.teleclub.xyz/club/server_2/musica/telehit/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="Musica",Top Latino
-http://tv.teleclub.xyz/club/server_2/musica/toplatino/index.m3u8
 
 
