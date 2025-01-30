@@ -1,0 +1,43 @@
+#EXTM3U
+# Cine
+
+#EXTINF:-1 tvg-id="" tvg-name="HD | SONY" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="Cine",HD | SONY
+http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2080
+#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY CHANNEL HD" tvg-logo="https://logo.iptveditor.com/discoverychanneld.png" group-title="Cine",CUL | DISCOVERY CHANNEL HD
+http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2081
+#EXTINF:-1 tvg-id="" tvg-name="CUL | DISCOVERY THEATER HD" tvg-logo="https://logo.iptveditor.com/discoverytheaterlat.png" group-title="Cine",CUL | DISCOVERY THEATER HD
+http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/2082
+
+
+
+#Noticias
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Noticias",RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caracol_Televisi%C3%B3n_logo_2023.png/285px-Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Noticias",CARACOL TV
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="http://www.canalrcn.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/CanalRCN2023.png/285px-CanalRCN2023.png" group-title="Noticias",RCN HD
+https://www.dailymotion.com/cdn/live/video/x7vyv0z.m3u8?sec=92MOLwNeefsP3yChf6Y1nDUsu4J8MjeGauhPC2yHK9VEuxCt1UtawiZ3EH1DN40edDVtgFVukZE4ALN-KjJmcQ
+
+
+# Deportes
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD | CDF PREMIUM" tvg-logo="https://logo.iptveditor.com/cdfpremium.png" group-title="Deportes",DEP HD | CDF PREMIUM
+http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1944
+#EXTINF:-1 tvg-id="" tvg-name="DEP HD |*GOL TV ECUADOR FHD" tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Deportes",DEP HD |*GOL TV ECUADOR FHD
+http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1945
+#EXTINF:-1 tvg-id="" tvg-name="DEP | TNT SPORT 2 CHILE" tvg-logo="https://logo.iptveditor.com/eptsport.png" group-title="Deportes",DEP | TNT SPORT 2 CHILE
+http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1946
+#EXTINF:-1 tvg-id="" tvg-name="DEP |  BOX NATION" tvg-logo="https://logo.iptveditor.com/boxnation.png" group-title="Deportes",DEP |  BOX NATION
+http://restream.mrzutv.com:8080/listam3ugratisparatodosenlosgruposs/listam3ugratisparatodosenlosgruposs/1947
+
+#Niños
+
+#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/300px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Infantil",NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.br" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="Infantil",Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Infantil",Anime Zone TV (480p)
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Infantil",ANIMESTATION (Argentina) (720p)
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+
